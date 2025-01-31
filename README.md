@@ -1,6 +1,6 @@
 # Postman-Automation-Showcase
 
-This repository contains Postman collections I created to demonstrate my API testing and automation skills. These collections were developed as part of my learning journey through the **"Postman: The Complete Guide"** course by Valentin Despa on Udemy. Each collection focuses on a different API, demonstrating how to work with APIs, write tests, and automate workflows.
+This repository contains Postman collections I created to demonstrate my API testing and automation skills. These collections were developed as part of my learning journey through the **"Postman: The Complete Guide"** course by Valentin Despa on Udemy. Each collection focuses on how to work with APIs, write tests, and automate workflows.
 
 ---
 
