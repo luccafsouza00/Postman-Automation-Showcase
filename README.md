@@ -17,11 +17,6 @@ This collection demonstrates how to interact with the Trello API. It includes ex
 #### API Documentation:
 - [Trello API Documentation](https://developer.atlassian.com/cloud/trello/rest/api-group-actions/)
 
-#### How to Use:
-1. Import the collection into Postman.
-2. Set up your Trello API key and token in the environment variables.
-3. Run the requests to explore Trello's API functionality.
-
 ---
 
 ### 2. **Simple Grocery Store API Collection**
@@ -35,11 +30,6 @@ This collection interacts with a mock grocery store API, showcasing how to manag
 #### API Documentation:
 - [Simple Grocery Store API Documentation](https://github.com/your-username/your-repo-name/blob/main/docs/simple-grocery-store-api.md)
 
-#### How to Use:
-1. Import the collection into Postman.
-2. Use the provided environment variables or set up your own.
-3. Run the requests to simulate a grocery store workflow.
-
 ---
 
 ### 3. **Valentin Books API Collection**
@@ -52,11 +42,6 @@ This collection is based on a fictional books API, demonstrating how to manage b
 
 #### API Documentation:
 - [Valentin Books API Documentation](https://github.com/your-username/your-repo-name/blob/main/docs/valentin-books-api.md)
-
-#### How to Use:
-1. Import the collection into Postman.
-2. Set up the required environment variables.
-3. Run the requests to explore the books API.
 
 ---
 
